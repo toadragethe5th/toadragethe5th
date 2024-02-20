@@ -1,2 +1,9 @@
-Hi! I'm ToadRage! I know a decent amount of python and a little bit of shell, and that is basically it.
+# Hello, Brave Explorer!
 
+I am an aspiring computer scientist.
+
+I know...
+- Python
+- C
+- Assembly
+- brainfuck
