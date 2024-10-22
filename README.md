@@ -1,6 +1,6 @@
 # Hello, Brave Explorer!
 
-I am an aspiring computer scientist.
+I am an aspiring embedded engineer, Debian nerd, and local doofus.
 
 I know...
 - Python
@@ -8,4 +8,3 @@ I know...
 - x86 Intel Assembly
 
 I am 15 years old.
-
