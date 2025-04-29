@@ -1,3 +1,3 @@
-# Hello, Brave Explorer!
+A silly man who does silly things.
 
-I am an aspiring embedded engineer, Debian nerd, and local doofus. I am *way* too into using C for it to be healthy.
+A Linux and hardware enthusiast.
